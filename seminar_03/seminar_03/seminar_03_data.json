@@ -1,0 +1,87 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "name": "Иван Иванов",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Мария Петрова",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Алексей Сидоров",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Елена Смирнова",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Дмитрий Козлов",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/5.jpg"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Программисты Swift",
+      "description": "Группа для обсуждения программирования на Swift",
+      "avatarUrl": "https://picsum.photos/id/1/200"
+    },
+    {
+      "id": 2,
+      "name": "iOS Разработчики",
+      "description": "Сообщество iOS разработчиков",
+      "avatarUrl": "https://picsum.photos/id/2/200"
+    },
+    {
+      "id": 3,
+      "name": "Мобильная разработка",
+      "description": "Обсуждение мобильной разработки",
+      "avatarUrl": "https://picsum.photos/id/3/200"
+    },
+    {
+      "id": 4,
+      "name": "UI/UX Дизайн",
+      "description": "Группа для дизайнеров мобильных приложений",
+      "avatarUrl": "https://picsum.photos/id/4/200"
+    },
+    {
+      "id": 5,
+      "name": "Apple Новости",
+      "description": "Последние новости от Apple",
+      "avatarUrl": "https://picsum.photos/id/5/200"
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "url": "https://picsum.photos/id/10/300"
+    },
+    {
+      "id": 2,
+      "url": "https://picsum.photos/id/20/300"
+    },
+    {
+      "id": 3,
+      "url": "https://picsum.photos/id/30/300"
+    },
+    {
+      "id": 4,
+      "url": "https://picsum.photos/id/40/300"
+    },
+    {
+      "id": 5,
+      "url": "https://picsum.photos/id/50/300"
+    },
+    {
+      "id": 6,
+      "url": "https://picsum.photos/id/60/300"
+    }
+  ]
+}
