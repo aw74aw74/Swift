@@ -1,0 +1,127 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "name": "Иван Иванов",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+      "isOnline": true
+    },
+    {
+      "id": 2,
+      "name": "Мария Петрова",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/2.jpg",
+      "isOnline": false
+    },
+    {
+      "id": 3,
+      "name": "Алексей Сидоров",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/3.jpg",
+      "isOnline": true
+    },
+    {
+      "id": 4,
+      "name": "Елена Смирнова",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+      "isOnline": false
+    },
+    {
+      "id": 5,
+      "name": "Дмитрий Козлов",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+      "isOnline": true
+    },
+    {
+      "id": 6,
+      "name": "Ольга Новикова",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/6.jpg",
+      "isOnline": false
+    },
+    {
+      "id": 7,
+      "name": "Павел Морозов",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/7.jpg",
+      "isOnline": true
+    },
+    {
+      "id": 8,
+      "name": "Анна Волкова",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/8.jpg",
+      "isOnline": false
+    },
+    {
+      "id": 9,
+      "name": "Сергей Лебедев",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/9.jpg",
+      "isOnline": true
+    },
+    {
+      "id": 10,
+      "name": "Екатерина Соколова",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/10.jpg",
+      "isOnline": false
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Программисты Swift",
+      "description": "Группа для обсуждения программирования на Swift",
+      "avatarUrl": "https://picsum.photos/id/1/200",
+      "membersCount": 125
+    },
+    {
+      "id": 2,
+      "name": "Дизайнеры UI/UX",
+      "description": "Сообщество дизайнеров интерфейсов",
+      "avatarUrl": "https://picsum.photos/id/2/200",
+      "membersCount": 240
+    },
+    {
+      "id": 3,
+      "name": "iOS Разработчики",
+      "description": "Группа для разработчиков под iOS",
+      "avatarUrl": "https://picsum.photos/id/3/200",
+      "membersCount": 350
+    },
+    {
+      "id": 4,
+      "name": "Мобильные технологии",
+      "description": "Обсуждение мобильных технологий и трендов",
+      "avatarUrl": "https://picsum.photos/id/4/200",
+      "membersCount": 88
+    },
+    {
+      "id": 5,
+      "name": "Стартапы и инновации",
+      "description": "Группа для обсуждения стартапов и инноваций",
+      "avatarUrl": "https://picsum.photos/id/5/200",
+      "membersCount": 190
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "url": "photo1"
+    },
+    {
+      "id": 2,
+      "url": "photo2"
+    },
+    {
+      "id": 3,
+      "url": "photo3"
+    },
+    {
+      "id": 4,
+      "url": "photo4"
+    },
+    {
+      "id": 5,
+      "url": "photo5"
+    },
+    {
+      "id": 6,
+      "url": "photo6"
+    }
+  ]
+}
