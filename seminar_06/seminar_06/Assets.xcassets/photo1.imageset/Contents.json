@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "14915203437862-Moto-Guzzi-MotoGuzzi-V7-II-Stone-2014-m.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
